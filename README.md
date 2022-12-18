@@ -1,5 +1,5 @@
   # Weather-Dashboard
-  https://github.com/mamadou1991/Weather-Dasboard
+  https://github.com/mamadou1991/Weather-Dashboard
   # Description
   This is a weather app that displays the current weather for a city and its five days forecast.
   # Table of Contents 
